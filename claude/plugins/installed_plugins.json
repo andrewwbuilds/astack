@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "plugins": {
+    "obsidian@obsidian-skills": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/obsidian-skills/obsidian/1.0.1",
+        "version": "1.0.1",
+        "installedAt": "2026-07-09T07:10:21.692Z",
+        "lastUpdated": "2026-07-09T07:10:21.692Z",
+        "gitCommitSha": "a1dc48e68138490d522c04cbf5822214c6eb1202"
+      }
+    ],
+    "ponytail@ponytail": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/ponytail/ponytail/4.8.4",
+        "version": "4.8.4",
+        "installedAt": "2026-07-09T07:13:34.201Z",
+        "lastUpdated": "2026-07-09T07:13:34.201Z",
+        "gitCommitSha": "8e69b4a55f735e1319999064f82786b838cb3d7b"
+      }
+    ],
+    "andrej-karpathy-skills@karpathy-skills": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/karpathy-skills/andrej-karpathy-skills/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-07-09T07:24:14.134Z",
+        "lastUpdated": "2026-07-09T07:24:14.134Z",
+        "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
+        "version": "unknown",
+        "installedAt": "2026-07-21T01:01:29.381Z",
+        "lastUpdated": "2026-08-20T10:03:32.558Z"
+      }
+    ],
+    "scroll-world@scroll-world": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/scroll-world/scroll-world/0.3.0",
+        "version": "0.3.0",
+        "installedAt": "2026-07-21T01:03:57.042Z",
+        "lastUpdated": "2026-07-21T01:03:57.042Z",
+        "gitCommitSha": "2912048246d057cdfe134dfc0b4dfb7e6a12f30e"
+      }
+    ],
+    "aws-startup-advisor@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/aws-startup-advisor/1.5.4",
+        "version": "1.5.4",
+        "installedAt": "2026-07-26T08:32:43.512Z",
+        "lastUpdated": "2026-07-26T08:32:43.512Z",
+        "gitCommitSha": "084d44e1dedab244c938a2eb37bd613a9643b223"
+      }
+    ]
+  }
+}

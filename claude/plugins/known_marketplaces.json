@@ -1,0 +1,50 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-08-20T10:03:32.489Z"
+  },
+  "humanizer": {
+    "source": {
+      "source": "github",
+      "repo": "blader/humanizer"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/humanizer",
+    "lastUpdated": "2026-07-09T03:04:49.699Z"
+  },
+  "obsidian-skills": {
+    "source": {
+      "source": "github",
+      "repo": "kepano/obsidian-skills"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/obsidian-skills",
+    "lastUpdated": "2026-07-09T07:10:15.493Z"
+  },
+  "ponytail": {
+    "source": {
+      "source": "github",
+      "repo": "DietrichGebert/ponytail"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/ponytail",
+    "lastUpdated": "2026-07-09T07:13:27.310Z"
+  },
+  "karpathy-skills": {
+    "source": {
+      "source": "github",
+      "repo": "forrestchang/andrej-karpathy-skills"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/karpathy-skills",
+    "lastUpdated": "2026-07-09T07:24:04.463Z"
+  },
+  "scroll-world": {
+    "source": {
+      "source": "github",
+      "repo": "oso95/scroll-world"
+    },
+    "installLocation": "/Users/andrewwang/.claude/plugins/marketplaces/scroll-world",
+    "lastUpdated": "2026-07-21T01:03:41.272Z"
+  }
+}

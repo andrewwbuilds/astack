@@ -1,0 +1,38 @@
+# Claude config secrets audit — see docs/decisions/ for context.
+# Nothing sensitive may be staged into this backup, ever.
+
+claude/.credentials.json
+claude/.credentials*
+claude/daemon/
+claude/sessions/
+claude/telemetry/
+claude/projects/
+claude/history.jsonl
+claude/shell-snapshots/
+claude/file-history/
+claude/paste-cache/
+claude/session-env/
+claude/backups/
+claude/ide/
+claude/jobs/
+claude/cache/
+claude/chrome/
+claude/downloads/
+claude/stats-cache.json
+claude/daemon*
+claude/.last-*
+claude/mcp-needs-auth-cache.json
+
+# Plugin source is never vendored — only the lockfiles are tracked.
+# These rules are the mechanical enforcement of that decision.
+claude/plugins/cache/
+claude/plugins/marketplaces/
+claude/plugins/data/
+claude/plugins/plugin-catalog-cache.json
+
+# Generic secret/noise patterns
+**/.env
+**/.env.local
+!**/.env.example
+**/.DS_Store
+**/*.key

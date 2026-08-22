@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.andrewwang.astack-sync</string>
+
+	<!-- Each ProgramArguments entry is a separate argv element, so the space
+	     in "git repos" needs no escaping here. Do not collapse this into a
+	     single shell string. -->
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/bash</string>
+		<string>/Users/andrewwang/git repos/astack/scripts/sync.sh</string>
+	</array>
+
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>9</integer>
+		<key>Minute</key>
+		<integer>0</integer>
+	</dict>
+
+	<!-- Catch up if the Mac was asleep or off at 09:00. -->
+	<key>RunAtLoad</key>
+	<false/>
+
+	<key>StandardOutPath</key>
+	<string>/tmp/astack-sync.log</string>
+	<key>StandardErrorPath</key>
+	<string>/tmp/astack-sync.err</string>
+
+	<key>WorkingDirectory</key>
+	<string>/Users/andrewwang/git repos/astack</string>
+
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+		<key>HOME</key>
+		<string>/Users/andrewwang</string>
+	</dict>
+</dict>
+</plist>
