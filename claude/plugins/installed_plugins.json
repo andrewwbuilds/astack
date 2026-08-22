@@ -59,6 +59,53 @@
         "lastUpdated": "2026-07-26T08:32:43.512Z",
         "gitCommitSha": "084d44e1dedab244c938a2eb37bd613a9643b223"
       }
+    ],
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/typescript-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-08-22T18:35:17.622Z",
+        "lastUpdated": "2026-08-22T18:35:17.622Z"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/claude-md-management/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-08-22T18:35:18.174Z",
+        "lastUpdated": "2026-08-22T18:35:18.174Z"
+      }
+    ],
+    "modern-web-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/modern-web-guidance/0.0.184",
+        "version": "0.0.184",
+        "installedAt": "2026-08-22T18:35:20.157Z",
+        "lastUpdated": "2026-08-22T18:35:20.157Z",
+        "gitCommitSha": "460e5536b8e61034d83ff4af24bb0bf1112d2cb0"
+      }
+    ],
+    "claude-security@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/claude-security/0.10.2",
+        "version": "0.10.2",
+        "installedAt": "2026-08-22T18:35:20.944Z",
+        "lastUpdated": "2026-08-22T18:35:20.944Z"
+      }
+    ],
+    "supabase@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/supabase/0.1.15",
+        "version": "0.1.15",
+        "installedAt": "2026-08-22T18:35:22.851Z",
+        "lastUpdated": "2026-08-22T18:35:22.851Z",
+        "gitCommitSha": "8629243d1cd72309b533090a4c742f21747d02fa"
+      }
     ]
   }
 }
