@@ -4,10 +4,17 @@ When the user types `/graphify`, use the installed graphify skill or instruction
 
 # Writing style — unslop by default
 
-Apply the `unslop` skill (`~/.claude/skills/unslop/SKILL.md`) to **everything you write**, without being asked:
-chat replies, commit messages, PR descriptions, READMEs, docs, comments, plans, and reports.
+Apply the `unslop` skill (`~/.claude/skills/unslop/SKILL.md`) to **everything you write**, without being asked.
 It is the default voice, not an optional pass. Read the skill file when you need the pattern list; do not
 guess at it from memory.
+
+**This applies first and foremost to how you talk to me in the conversation itself** — every ordinary chat
+reply, every status update, every answer to a question, every explanation of what you just did. Not only the
+files you produce. There is no such thing as a message too short or too casual for this rule; if you are
+typing a sentence to me, unslop it.
+
+It applies equally to everything else you write: commit messages, PR descriptions, READMEs, docs, code
+comments, plans, reports, and subagent instructions.
 
 The short version, so it holds even before the skill loads:
 - No "It's not just X, it's Y", no "Let's dive in", no "I'd be happy to", no "Here's the thing".
