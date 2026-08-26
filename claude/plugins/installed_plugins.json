@@ -34,10 +34,10 @@
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
-        "version": "unknown",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/b819188d2eea",
+        "version": "b819188d2eea",
         "installedAt": "2026-07-21T01:01:29.381Z",
-        "lastUpdated": "2026-08-25T09:42:33.370Z"
+        "lastUpdated": "2026-08-25T23:20:19.296Z"
       }
     ],
     "scroll-world@scroll-world": [
