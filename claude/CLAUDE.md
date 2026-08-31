@@ -39,7 +39,15 @@ Exceptions:
 - Commit after every logically complete unit of work — a passing test, a working function, a fixed bug, a finished refactor step. Do not batch a whole feature into one commit.
 - Prefer many small, reviewable commits over few large ones. If a diff touches unrelated concerns, split it into separate commits.
 - Never leave finished work uncommitted at the end of a task.
-- Only `git push` when the user asks. If on the default branch, create a branch first.
+
+## Always push when the task is done
+- At the end of every prompt/task, `git push` the current branch to `origin`. Do not wait to be asked.
+- Push to whatever branch is checked out: `git push origin HEAD`. Use `-u` on the first push of a new branch.
+- This applies on the default branch too — do not create a branch just to avoid pushing. Only branch first when the task itself calls for one, or when the remote's default branch is protected and the push is rejected.
+- Do not push when: there is no `origin` remote, the work is on a detached HEAD, the repo is a clone you do not have write access to, or the task explicitly said not to. Say so instead of silently skipping.
+- Never use `--force` or `--force-with-lease` as part of this automatic push. If the push is rejected as non-fast-forward, stop and report it rather than resolving it unilaterally.
+- Never push secrets, credentials, or large binaries that `.gitignore` should have caught. Check `git status` before the final commit.
+- Report the push in one line: branch, remote, and short SHA range.
 
 ## Conventional Commits (commitlint)
 Every commit message must satisfy `@commitlint/config-conventional`:
