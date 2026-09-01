@@ -1,0 +1,4 @@
+Source: https://github.com/petergyang/no-ai-slop
+Installed: 2026-08-31
+Upstream commit: d30eddb
+MIT, (c) Peter Yang. Update by re-copying skills/no-ai-slop/ from upstream.
