@@ -34,10 +34,10 @@
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/ed404106fcd8",
-        "version": "ed404106fcd8",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/0e3f501d0f4a",
+        "version": "0e3f501d0f4a",
         "installedAt": "2026-07-21T01:01:29.381Z",
-        "lastUpdated": "2026-08-29T01:27:48.930Z"
+        "lastUpdated": "2026-09-02T10:12:53.842Z"
       }
     ],
     "scroll-world@scroll-world": [
@@ -91,10 +91,10 @@
     "claude-security@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/claude-security/0.10.2.3",
-        "version": "0.10.2.3",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/claude-security/0.11.0",
+        "version": "0.11.0",
         "installedAt": "2026-08-22T18:35:20.944Z",
-        "lastUpdated": "2026-08-25T09:30:41.347Z"
+        "lastUpdated": "2026-09-02T10:12:53.831Z"
       }
     ],
     "supabase@claude-plugins-official": [
