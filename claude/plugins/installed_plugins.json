@@ -34,10 +34,10 @@
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/0e3f501d0f4a",
-        "version": "0e3f501d0f4a",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/0120fb83da5d",
+        "version": "0120fb83da5d",
         "installedAt": "2026-07-21T01:01:29.381Z",
-        "lastUpdated": "2026-09-02T10:12:53.842Z"
+        "lastUpdated": "2026-09-02T20:36:05.969Z"
       }
     ],
     "scroll-world@scroll-world": [
@@ -53,11 +53,11 @@
     "aws-startup-advisor@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/aws-startup-advisor/1.5.4",
-        "version": "1.5.4",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/aws-startup-advisor/2.0.0",
+        "version": "2.0.0",
         "installedAt": "2026-07-26T08:32:43.512Z",
-        "lastUpdated": "2026-07-26T08:32:43.512Z",
-        "gitCommitSha": "084d44e1dedab244c938a2eb37bd613a9643b223"
+        "lastUpdated": "2026-09-02T20:36:11.332Z",
+        "gitCommitSha": "3408f10f51785634cf28944e44fc313127884c33"
       }
     ],
     "typescript-lsp@claude-plugins-official": [
@@ -81,10 +81,10 @@
     "modern-web-guidance@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/modern-web-guidance/0.0.184",
-        "version": "0.0.184",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/modern-web-guidance/0.0.185",
+        "version": "0.0.185",
         "installedAt": "2026-08-22T18:35:20.157Z",
-        "lastUpdated": "2026-08-22T18:35:20.157Z",
+        "lastUpdated": "2026-09-02T20:36:07.231Z",
         "gitCommitSha": "460e5536b8e61034d83ff4af24bb0bf1112d2cb0"
       }
     ],
