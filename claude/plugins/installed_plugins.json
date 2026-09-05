@@ -34,10 +34,10 @@
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/0120fb83da5d",
-        "version": "0120fb83da5d",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/frontend-design/85cce0381e78",
+        "version": "85cce0381e78",
         "installedAt": "2026-07-21T01:01:29.381Z",
-        "lastUpdated": "2026-09-02T20:36:05.969Z"
+        "lastUpdated": "2026-09-04T23:01:45.442Z"
       }
     ],
     "scroll-world@scroll-world": [
@@ -81,10 +81,10 @@
     "modern-web-guidance@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/modern-web-guidance/0.0.185",
-        "version": "0.0.185",
+        "installPath": "/Users/andrewwang/.claude/plugins/cache/claude-plugins-official/modern-web-guidance/0.0.186",
+        "version": "0.0.186",
         "installedAt": "2026-08-22T18:35:20.157Z",
-        "lastUpdated": "2026-09-02T20:36:07.231Z",
+        "lastUpdated": "2026-09-04T23:01:46.780Z",
         "gitCommitSha": "460e5536b8e61034d83ff4af24bb0bf1112d2cb0"
       }
     ],
